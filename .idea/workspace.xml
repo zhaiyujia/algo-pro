@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a5b006b-c82d-4cee-a737-0eb4d95be271" name="Changes" comment="" />
+    <list default="true" id="0a5b006b-c82d-4cee-a737-0eb4d95be271" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/array/com/itheima/stack/LinkedListStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/array/com/itheima/stack/LinkedListStack.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -49,14 +55,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/missfresh" />
-    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itheima.array.com.itheima.stack" />
       <recent name="com.itheima.array.inf" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestE">
+  <component name="RunManager" selected="Application.TestEStack">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.itheima.array.inf.Test" />
       <module name="algo-pro" />
@@ -83,8 +90,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestEStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.array.com.itheima.stack.TestEStack" />
+      <module name="algo-pro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.array.com.itheima.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.array.com.itheima.stack.TestStack" />
+      <module name="algo-pro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.array.com.itheima.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestEStack" />
+        <item itemvalue="Application.TestStack" />
         <item itemvalue="Application.TestE" />
         <item itemvalue="Application.Test" />
       </list>
@@ -99,6 +134,9 @@
       <option name="presentableId" value="Default" />
       <updated>1705647892484</updated>
       <workItem from="1705647893859" duration="4316000" />
+      <workItem from="1705655299920" duration="720000" />
+      <workItem from="1706179005030" duration="1462000" />
+      <workItem from="1706257107015" duration="1609000" />
     </task>
     <servers />
   </component>
